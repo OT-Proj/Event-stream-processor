@@ -1,0 +1,373 @@
+[
+    {
+        "session_id": "Pooh#1572815387.934958",
+        "user_id": "Pooh",
+        "type": "end_session",
+        "url": "/pageY",
+        "timestamp": 1572815394.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "start_session",
+        "url": "/pageZ",
+        "timestamp": 1572815396.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815397.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815398.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815399.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815400.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815401.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "conversion",
+        "url": "/pageX",
+        "timestamp": 1572815402.934958
+    },
+    {
+        "session_id": "Piglet#1572815395.934958",
+        "user_id": "Piglet",
+        "type": "end_session",
+        "url": "/pageX",
+        "timestamp": 1572815403.934958
+    },
+    {
+        "session_id": "eeyore#1572815404.934958",
+        "user_id": "eeyore",
+        "type": "start_session",
+        "url": "/pageZ",
+        "timestamp": 1572815405.934958
+    },
+    {
+        "session_id": "eeyore#1572815404.934958",
+        "user_id": "eeyore",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815406.934958
+    },
+    {
+        "session_id": "eeyore#1572815404.934958",
+        "user_id": "eeyore",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815407.934958
+    },
+    {
+        "session_id": "eeyore#1572815404.934958",
+        "user_id": "eeyore",
+        "type": "conversion",
+        "url": "/pageX",
+        "timestamp": 1572815408.934958
+    },
+    {
+        "session_id": "eeyore#1572815404.934958",
+        "user_id": "eeyore",
+        "type": "end_session",
+        "url": "/pageX",
+        "timestamp": 1572815409.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "start_session",
+        "url": "/pageZ",
+        "timestamp": 1572815411.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815412.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815413.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815414.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815415.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815416.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815417.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "conversion",
+        "url": "/pageZ",
+        "timestamp": 1572815418.934958
+    },
+    {
+        "session_id": "christopher robbin#1572815410.934958",
+        "user_id": "christopher robbin",
+        "type": "end_session",
+        "url": "/pageZ",
+        "timestamp": 1572815419.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "start_session",
+        "url": "/pageY",
+        "timestamp": 1572815421.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815422.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815423.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815424.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815425.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815426.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "conversion",
+        "url": "/pageX",
+        "timestamp": 1572815427.934958
+    },
+    {
+        "session_id": "Pooh#1572815420.934958",
+        "user_id": "Pooh",
+        "type": "end_session",
+        "url": "/pageX",
+        "timestamp": 1572815428.934958
+    },
+    {
+        "session_id": "Piglet#1572815429.934958",
+        "user_id": "Piglet",
+        "type": "start_session",
+        "url": "/pageX",
+        "timestamp": 1572815430.934958
+    },
+    {
+        "session_id": "Piglet#1572815429.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815431.934958
+    },
+    {
+        "session_id": "Piglet#1572815429.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815432.934958
+    },
+    {
+        "session_id": "Piglet#1572815429.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815433.934958
+    },
+    {
+        "session_id": "Piglet#1572815429.934958",
+        "user_id": "Piglet",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815434.934958
+    },
+    {
+        "session_id": "Piglet#1572815429.934958",
+        "user_id": "Piglet",
+        "type": "conversion",
+        "url": "/pageZ",
+        "timestamp": 1572815435.934958
+    },
+    {
+        "session_id": "Piglet#1572815429.934958",
+        "user_id": "Piglet",
+        "type": "end_session",
+        "url": "/pageZ",
+        "timestamp": 1572815436.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "start_session",
+        "url": "/pageY",
+        "timestamp": 1572815438.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815439.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815440.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815441.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815442.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815443.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "in_page",
+        "url": "/pageZ",
+        "timestamp": 1572815444.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815445.934958
+    },
+    {
+        "session_id": "unlucky_user#1572815437.934958",
+        "user_id": "unlucky_user",
+        "type": "end_session",
+        "url": "/pageY",
+        "timestamp": 1572815446.934958
+    },
+    {
+        "session_id": "Pooh#1572815387.934958",
+        "user_id": "Pooh",
+        "type": "start_session",
+        "url": "/pageY",
+        "timestamp": 1572815388.934958
+    },
+    {
+        "session_id": "Pooh#1572815387.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815389.934958
+    },
+    {
+        "session_id": "Pooh#1572815387.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815390.934958
+    },
+    {
+        "session_id": "Pooh#1572815387.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageX",
+        "timestamp": 1572815391.934958
+    },
+    {
+        "session_id": "Pooh#1572815387.934958",
+        "user_id": "Pooh",
+        "type": "in_page",
+        "url": "/pageY",
+        "timestamp": 1572815392.934958
+    },
+    {
+        "session_id": "Pooh#1572815387.934958",
+        "user_id": "Pooh",
+        "type": "conversion",
+        "url": "/pageY",
+        "timestamp": 1572815393.934958
+    }
+]
